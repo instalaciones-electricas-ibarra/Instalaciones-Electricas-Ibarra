@@ -4,8 +4,7 @@ description: Instalaciones eléctricas en Zaragoza y alrededores
 url: "https://instalaciones-electricas-ibarra.github.io"
 baseurl: "/Instalaciones-Electricas-Ibarra"
 
-logo: "/logo.png"
+theme: jekyll-theme-midnight
+logo: "logo.png"
+show_downloads: false
 
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-- jekyll-remote-theme
