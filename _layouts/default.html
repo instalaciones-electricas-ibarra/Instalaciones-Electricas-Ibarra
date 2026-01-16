@@ -132,6 +132,40 @@
     padding: 14px 16px;
   }
 }
+    /* Botón WhatsApp fijo */
+.whatsapp-fijo {
+  position: fixed;
+  bottom: 18px;
+  right: 18px;
+  width: 56px;
+  height: 56px;
+  background: #f5a623; /* naranja/dorado logo */
+  color: #000;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 26px;
+  text-decoration: none;
+  box-shadow: 0 6px 20px rgba(0,0,0,.5);
+  z-index: 999;
+}
+
+.whatsapp-fijo:hover {
+  background: #ffd27d;
+}
+
+/* Ajuste móvil */
+@media (max-width: 480px) {
+  .whatsapp-fijo {
+    width: 60px;
+    height: 60px;
+    bottom: 16px;
+    right: 16px;
+    font-size: 28px;
+  }
+}
+
     
   </style>
  </head>
@@ -141,5 +175,12 @@
   <main class="container">
     {{ content }}
   </main>
+  <a href="https://wa.me/34658377727"
+   class="whatsapp-fijo"
+   target="_blank"
+   aria-label="Contactar por WhatsApp">
+  💬
+</a>
+
 </body>
 </html>
