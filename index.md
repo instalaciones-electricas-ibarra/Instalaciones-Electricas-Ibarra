@@ -4,9 +4,6 @@ layout: default
 <img src="logo.png" alt="Instalaciones Eléctricas Ibarra" style="max-width:280px;width:100%;display:block;margin:10px auto 25px;">
 ---
 
-Instalaciones eléctricas en Zaragoza y alrededores
-
-# Instalaciones Eléctricas Ibarra
 Instalaciones · Reparaciones · Mantenimiento
 
 **WhatsApp:** [658 377 727](https://wa.me/34658377727)  
