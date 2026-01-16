@@ -1,8 +1,8 @@
-title: 
+title: Instalaciones Eléctricas Ibarra
 
 url: "https://instalaciones-electricas-ibarra.github.io"
 baseurl: "/Instalaciones-Electricas-Ibarra"
 
-theme: jekyll-theme-midnight
+theme: jekyll-theme-minimal
 show_downloads: false
 
