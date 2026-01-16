@@ -14,14 +14,29 @@ Instalaciones · Reparaciones · Mantenimiento
 
 ---
 
-## Servicios
-- Instalaciones eléctricas en viviendas
-- Instalaciones industriales y comerciales
-- Cuadros eléctricos
-- Iluminación interior y exterior
-- Mantenimiento y averías
-- Boletines eléctricos
-- Adaptación a normativa (REBT)
+---
+
+## ⚡ Servicios
+
+<div style="
+  background:#141414;
+  border-left:4px solid #f5a623;
+  padding:18px 20px;
+  border-radius:8px;
+  margin-top:20px;
+">
+
+<ul style="list-style:none; padding-left:0; margin:0;">
+  <li>⚡ Instalaciones eléctricas en viviendas</li>
+  <li>⚡ Instalaciones industriales y comerciales</li>
+  <li>⚡ Cuadros eléctricos</li>
+  <li>⚡ Iluminación interior y exterior</li>
+  <li>⚡ Mantenimiento y averías</li>
+  <li>⚡ Boletines eléctricos</li>
+  <li>⚡ Adaptación a normativa (REBT)</li>
+</ul>
+
+</div>
 
 
 ---
