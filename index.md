@@ -23,12 +23,20 @@
        ">
 </div>
 
+<div style="
+  width:100%;
+  text-align:center;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  font-size:0.92em;
+  letter-spacing:0.2px;
+  margin: 0 auto 10px;
+">
   Instalaciones · Reparaciones · Mantenimiento
 
 
 <div class="energy-bar"></div>
-
----
 
 ---
 
@@ -92,7 +100,6 @@ Servicio rápido, cercano y adaptado a normativa.
 
 </div>
 
----
 ---
 
 ## 📞 Contacto
