@@ -29,6 +29,5 @@ Zaragoza y alrededores
 [📲 Contactar por WhatsApp](https://wa.me/34658377727)
 
 
-</body>
-</html>
+
 
