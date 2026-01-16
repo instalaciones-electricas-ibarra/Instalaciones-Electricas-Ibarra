@@ -5,7 +5,7 @@
   footer, .site-footer, .footer, #footer { display:none !important; }
 </style>
  
-<img src="logo.png" alt="Instalaciones Eléctricas Ibarra" style="max-width:280px;width:100%;display:block;margin:10px auto 25px;">
+<img src="logo.png" alt="Instalaciones Eléctricas Ibarra" style="max-width:300px; width:100%; height:auto; display:inline-block;">
 
 <div style="
   text-align:center;
