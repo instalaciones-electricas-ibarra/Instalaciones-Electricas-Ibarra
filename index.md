@@ -8,13 +8,22 @@
 <img src="logo.png" alt="Instalaciones Eléctricas Ibarra" style="max-width:300px; width:100%; height:auto; display:inline-block;">
 
 <div style="
-  text-align:center;
-  white-space:nowrap;
-  overflow:hidden;
-  text-overflow:ellipsis;
-  font-size:0.95em;
-  margin-bottom:10px;
+  width:100%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  margin: 20px 0 22px;
 ">
+  <img src="logo.png"
+       alt="Instalaciones Eléctricas Ibarra"
+       style="
+         max-width:300px;
+         width:100%;
+         height:auto;
+         display:block;
+         margin:0 auto;
+       ">
+</div>
   Instalaciones · Reparaciones · Mantenimiento
 </div>
 
