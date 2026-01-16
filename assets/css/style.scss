@@ -1,5 +1,9 @@
+---
+---
+
 @import "{{ site.theme }}";
 
+/* Quitar el footer del tema (mattgraham) */
 footer {
-  display: none;
+  display: none !important;
 }
