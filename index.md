@@ -31,4 +31,4 @@ Zaragoza y alrededores
 
 </body>
 </html>
-theme: jekyll-theme-minimal
+
