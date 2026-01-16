@@ -5,8 +5,6 @@
   footer, .site-footer, .footer, #footer { display:none !important; }
 </style>
  
-<img src="logo.png" alt="Instalaciones Eléctricas Ibarra" style="max-width:300px; width:100%; height:auto; display:inline-block;">
-
 <div style="
   width:100%;
   display:flex;
@@ -24,8 +22,9 @@
          margin:0 auto;
        ">
 </div>
+
   Instalaciones · Reparaciones · Mantenimiento
-</div>
+
 
 <div class="energy-bar"></div>
 
