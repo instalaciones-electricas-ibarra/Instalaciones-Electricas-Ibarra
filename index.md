@@ -34,7 +34,7 @@
   margin: 0 auto 10px;
 ">
   Instalaciones · Reparaciones · Mantenimiento
-
+</div>
 
 <div class="energy-bar"></div>
 
