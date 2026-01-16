@@ -133,6 +133,7 @@
   }
 }
     /* Botón WhatsApp fijo */
+/* Botón WhatsApp fijo (color logo) + pulso eléctrico */
 .whatsapp-fijo {
   position: fixed;
   bottom: 18px;
@@ -149,6 +150,36 @@
   text-decoration: none;
   box-shadow: 0 6px 20px rgba(0,0,0,.5);
   z-index: 999;
+
+  animation: pulso 2.2s ease-in-out infinite;
+}
+
+/* Anillo de energía */
+.whatsapp-fijo::after {
+  content: "";
+  position: absolute;
+  inset: -6px;
+  border-radius: 50%;
+  border: 2px solid rgba(245, 166, 35, 0.55);
+  opacity: 0;
+  animation: anillo 2.2s ease-in-out infinite;
+}
+
+.whatsapp-fijo:hover {
+  background: #ffd27d;
+  animation: none;
+}
+
+@keyframes pulso {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.06); }
+}
+
+@keyframes anillo {
+  0%   { transform: scale(0.95); opacity: 0; }
+  35%  { opacity: 0.85; }
+  70%  { transform: scale(1.22); opacity: 0; }
+  100% { opacity: 0; }
 }
 
 .whatsapp-fijo:hover {
