@@ -12,6 +12,24 @@
       background: #121212;
       color: #f2f2f2;
     }
+     /* Línea superior efecto energía */
+.energy-line {
+  height: 5px;
+  width: 100%;
+  background: linear-gradient(
+    90deg,
+    #f5a623,
+    #ffd27d,
+    #f5a623
+  );
+  background-size: 200% 100%;
+  animation: energia 2.5s linear infinite;
+}
+
+@keyframes energia {
+  0% { background-position: 0% 50%; }
+  100% { background-position: 200% 50%; }
+}
 
     .container {
       max-width: 900px;
@@ -89,9 +107,10 @@
       }
     }
   </style>
-</head>
+ </head>
 
 <body>
+  <div class="energy-line"></div>
   <main class="container">
     {{ content }}
   </main>
