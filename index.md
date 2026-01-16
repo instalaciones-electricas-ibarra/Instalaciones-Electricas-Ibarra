@@ -39,7 +39,6 @@
 <div class="energy-bar"></div>
 
 ---
-
 ---
 
 ## ⚡ Servicios
@@ -86,7 +85,6 @@
 </div>
 
 ---
-
 ---
 
 ## 📍 Zona de trabajo
@@ -105,7 +103,6 @@ Servicio rápido, cercano y adaptado a normativa.
 </div>
 
 ---
-
 ---
 
 ## 📞 Contacto
