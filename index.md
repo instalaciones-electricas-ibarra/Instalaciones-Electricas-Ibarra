@@ -96,16 +96,8 @@ Servicio rápido, cercano y adaptado a normativa.
   text-align:center;
 ">
 
-<a href="https://wa.me/34658377727"
-   style="
-     display:block;
-     margin-bottom:12px;
-     font-size:1.05em;
-     color:#f5a623;
-     text-decoration:none;
-     font-weight:600;
-   ">
-  📲 WhatsApp: 658 377 727
+[📲 Contactar por WhatsApp](https://wa.me/34658377727)
+
 </a>
 
 <a href="mailto:maielectricidad@hotmail.com"
@@ -121,4 +113,4 @@ Servicio rápido, cercano y adaptado a normativa.
 </div>
 
 
-[📲 Contactar por WhatsApp](https://wa.me/34658377727)
+
