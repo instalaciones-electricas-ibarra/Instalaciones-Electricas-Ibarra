@@ -30,4 +30,22 @@ Zaragoza y alrededores
 
 ---
 
+## 📍 Zona de trabajo
+
+<div style="
+  background:#141414;
+  border-left:4px solid #f5a623;
+  padding:16px 18px;
+  border-radius:8px;
+  margin-top:20px;
+">
+
+<strong>Zaragoza y alrededores</strong><br>
+Servicio rápido, cercano y adaptado a normativa local (REBT).
+
+</div>
+
+
+---
+
 [📲 Contactar por WhatsApp](https://wa.me/34658377727)
