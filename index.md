@@ -18,9 +18,6 @@
   Instalaciones · Reparaciones · Mantenimiento
 </div>
 
-**WhatsApp:** [658 377 727](https://wa.me/34658377727)  
-**Email:** [maielectricidad@hotmail.com](mailto:maielectricidad@hotmail.com)
-
 ---
 
 ---
@@ -86,5 +83,42 @@ Servicio rápido, cercano y adaptado a normativa.
 </div>
 
 ---
+---
+
+## 📞 Contacto
+
+<div style="
+  background:#141414;
+  border-left:4px solid #f5a623;
+  padding:18px 20px;
+  border-radius:8px;
+  margin-top:20px;
+  text-align:center;
+">
+
+<a href="https://wa.me/34658377727"
+   style="
+     display:block;
+     margin-bottom:12px;
+     font-size:1.05em;
+     color:#f5a623;
+     text-decoration:none;
+     font-weight:600;
+   ">
+  📲 WhatsApp: 658 377 727
+</a>
+
+<a href="mailto:maielectricidad@hotmail.com"
+   style="
+     display:block;
+     font-size:1em;
+     color:#cfcfcf;
+     text-decoration:none;
+   ">
+  📧 maielectricidad@hotmail.com
+</a>
+
+</div>
+
 
 [📲 Contactar por WhatsApp](https://wa.me/34658377727)
