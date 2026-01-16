@@ -1,136 +1,33 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Instalaciones Eléctricas Ibarra</title>
+---
+title: Instalaciones Eléctricas Ibarra
+---
 
-<meta name="description" content="Instalaciones Eléctricas Ibarra. Electricistas profesionales en Zaragoza y alrededores.">
+# Instalaciones Eléctricas Ibarra
+Instalaciones · Reparaciones · Mantenimiento
 
-<style>
-body{
-    margin:0;
-    font-family: Arial, Helvetica, sans-serif;
-    background:#000;
-    color:#f5f5f5;
-}
+**WhatsApp:** [658 377 727](https://wa.me/34658377727)  
+**Email:** [maielectricidad@hotmail.com](mailto:maielectricidad@hotmail.com)
 
-header{
-    background:#000;
-    text-align:center;
-    padding:40px 20px;
-}
+---
 
-header img{
-    max-width:320px;
-    margin-bottom:20px;
-}
+## Servicios
+- Instalaciones eléctricas en viviendas
+- Instalaciones industriales y comerciales
+- Cuadros eléctricos
+- Iluminación interior y exterior
+- Mantenimiento y averías
+- Boletines eléctricos
+- Adaptación a normativa (REBT)
 
-section{
-    background:#111;
-    max-width:1000px;
-    margin:20px auto;
-    padding:40px 20px;
-    border-radius:6px;
-}
+---
 
-h2{
-    color:#d4af37;
-}
+## Zona de trabajo
+Zaragoza y alrededores
 
-ul{
-    list-style:none;
-    padding:0;
-}
+---
 
-ul li::before{
-    content:"⚡ ";
-    color:#d4af37;
-}
+[📲 Contactar por WhatsApp](https://wa.me/34658377727)
 
-.whatsapp{
-    display:inline-block;
-    background:#25D366;
-    color:#000;
-    padding:15px 25px;
-    font-size:18px;
-    font-weight:bold;
-    text-decoration:none;
-    border-radius:50px;
-    margin-top:20px;
-}
-
-.whatsapp:hover{
-    opacity:0.9;
-}
-
-.contacto a{
-    color:#d4af37;
-    text-decoration:none;
-}
-
-footer{
-    background:#000;
-    text-align:center;
-    padding:20px;
-    color:#aaa;
-}
-</style>
-</head>
-
-<body>
-
-<header>
-    <img src="logo.png" alt="Instalaciones Eléctricas Ibarra">
-    <p>Profesionales en instalaciones eléctricas</p>
-
-    <a class="whatsapp" href="https://wa.me/34658377727" target="_blank">
-        📲 Contactar por WhatsApp
-    </a>
-</header>
-
-<section>
-<h2>Sobre nosotros</h2>
-<p>
-En <strong>Instalaciones Eléctricas Ibarra</strong> ofrecemos soluciones eléctricas seguras,
-eficientes y adaptadas a cada cliente, cumpliendo siempre la normativa vigente.
-</p>
-</section>
-
-<section>
-<h2>Servicios</h2>
-<ul>
-<li>Instalaciones eléctricas en viviendas</li>
-<li>Instalaciones industriales y comerciales</li>
-<li>Cuadros eléctricos</li>
-<li>Iluminación interior y exterior</li>
-<li>Mantenimiento y averías</li>
-<li>Boletines eléctricos</li>
-<li>Adaptación a normativa REBT</li>
-</ul>
-</section>
-
-<section>
-<h2>Zona de trabajo</h2>
-<p>Zaragoza y alrededores</p>
-</section>
-
-<section class="contacto">
-<h2>Contacto</h2>
-<p>
-<strong>Instalaciones Eléctricas Ibarra</strong><br><br>
-📞 WhatsApp: <a href="https://wa.me/34658377727">658 377 727</a><br>
-📧 Email: <a href="mailto:maielectricidad@hotmail.com">maielectricidad@hotmail.com</a>
-</p>
-
-<a class="whatsapp" href="https://wa.me/34658377727" target="_blank">
-    📲 Escríbenos por WhatsApp
-</a>
-</section>
-
-<footer>
-© Instalaciones Eléctricas Ibarra
-</footer>
 
 </body>
 </html>
