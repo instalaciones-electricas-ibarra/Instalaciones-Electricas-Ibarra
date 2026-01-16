@@ -108,8 +108,6 @@ Servicio rápido, cercano y adaptado a normativa.
   📲 WhatsApp: 658 377 727
 </a>
 
-</a>
-
 <a href="mailto:maielectricidad@hotmail.com"
    style="
      display:block;
