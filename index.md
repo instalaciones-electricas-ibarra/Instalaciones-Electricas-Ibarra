@@ -37,7 +37,7 @@ Instalaciones · Reparaciones · Mantenimiento
 ">
 
 <strong>Zaragoza y alrededores</strong><br>
-Servicio rápido, cercano y adaptado a normativa local (REBT).
+Servicio rápido, cercano y adaptado a normativa.
 
 </div>
 
