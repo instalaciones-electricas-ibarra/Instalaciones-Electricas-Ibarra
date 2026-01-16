@@ -7,7 +7,16 @@
  
 <img src="logo.png" alt="Instalaciones Eléctricas Ibarra" style="max-width:280px;width:100%;display:block;margin:10px auto 25px;">
 
-Instalaciones · Reparaciones · Mantenimiento
+<div style="
+  text-align:center;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+  font-size:0.95em;
+  margin-bottom:10px;
+">
+  Instalaciones · Reparaciones · Mantenimiento
+</div>
 
 **WhatsApp:** [658 377 727](https://wa.me/34658377727)  
 **Email:** [maielectricidad@hotmail.com](mailto:maielectricidad@hotmail.com)
@@ -72,7 +81,7 @@ Instalaciones · Reparaciones · Mantenimiento
 ">
 
 <strong>Zaragoza y alrededores</strong><br>
-Servicio rápido, cercano y adaptado a normativa local (REBT).
+Servicio rápido, cercano y adaptado a normativa.
 
 </div>
 
