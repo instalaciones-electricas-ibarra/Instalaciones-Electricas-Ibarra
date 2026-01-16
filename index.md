@@ -132,7 +132,7 @@ Servicio rápido, cercano y adaptado a normativa.
    style="
      display:block;
      font-size:1em;
-     color:#cfcfcf;
+     color:#f5a623;
      text-decoration:none;
    ">
   📧 maielectricidad@hotmail.com
