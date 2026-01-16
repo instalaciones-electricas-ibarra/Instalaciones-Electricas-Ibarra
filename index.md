@@ -18,6 +18,8 @@
   Instalaciones · Reparaciones · Mantenimiento
 </div>
 
+<div class="energy-bar"></div>
+
 ---
 
 ---
