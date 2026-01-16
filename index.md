@@ -26,36 +26,38 @@ Instalaciones · Reparaciones · Mantenimiento
   margin-top:20px;
 ">
 
-<ul style="list-style:none; padding-left:0; margin:0;">
-  <li>⚡ Instalaciones eléctricas en viviendas</li>
-  <li>⚡ Instalaciones industriales y comerciales</li>
-  <li>⚡ Cuadros eléctricos</li>
-  <li>⚡ Iluminación interior y exterior</li>
-  <li>⚡ Mantenimiento y averías</li>
-  <li>⚡ Boletines eléctricos</li>
-  <li>⚡ Adaptación a normativa (REBT)</li>
+<ul style="
+  list-style:none;
+  padding-left:0;
+  margin:0;
+  font-size:0.95em;
+">
+
+  <li style="white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
+    ⚡ Instalaciones eléctricas en viviendas
+  </li>
+  <li style="white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
+    ⚡ Instalaciones industriales y comerciales
+  </li>
+  <li style="white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
+    ⚡ Cuadros eléctricos
+  </li>
+  <li style="white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
+    ⚡ Iluminación interior y exterior
+  </li>
+  <li style="white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
+    ⚡ Mantenimiento y averías
+  </li>
+  <li style="white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
+    ⚡ Boletines eléctricos
+  </li>
+  <li style="white-space:nowrap; overflow:hidden; text-overflow:ellipsis;">
+    ⚡ Adaptación a normativa (REBT)
+  </li>
+
 </ul>
 
 </div>
-
-
----
-
-## 📍 Zona de trabajo
-
-<div style="
-  background:#141414;
-  border-left:4px solid #f5a623;
-  padding:16px 18px;
-  border-radius:8px;
-  margin-top:20px;
-">
-
-<strong>Zaragoza y alrededores</strong><br>
-Servicio rápido, cercano y adaptado a normativa.
-
-</div>
-
 
 ---
 
