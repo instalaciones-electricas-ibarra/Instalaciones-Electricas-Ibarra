@@ -23,10 +23,6 @@ Instalaciones · Reparaciones · Mantenimiento
 - Boletines eléctricos
 - Adaptación a normativa (REBT)
 
----
-
-## Zona de trabajo
-Zaragoza y alrededores
 
 ---
 
