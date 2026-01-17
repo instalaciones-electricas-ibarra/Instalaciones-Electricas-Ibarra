@@ -209,8 +209,10 @@ Servicio rápido, cercano y adaptado a normativa.
 
 </form>
 
+---
+---
 
-📞 Contacto
+## 📞 Contacto
 
 <div style="
   background:#141414;
@@ -218,7 +220,6 @@ Servicio rápido, cercano y adaptado a normativa.
   padding:18px 20px;
   border-radius:8px;
   margin-top:20px;
-  text-align:center;
 ">
 
 <a href="https://wa.me/34658377727"
