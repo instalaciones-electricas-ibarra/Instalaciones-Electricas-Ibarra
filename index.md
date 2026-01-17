@@ -115,7 +115,7 @@ Servicio rápido, cercano y adaptado a normativa.
   margin-top:20px;
 ">
 
- <form action="https://formspree.io/f/formspree.io/f/xnjjjlnj"
+  <form action="https://formspree.io/f/formspree.io/f/xnjjjlnj"
       method="POST"
       style="
         background:#141414;
@@ -130,55 +130,76 @@ Servicio rápido, cercano y adaptado a normativa.
   <input type="hidden" name="_subject" value="Nuevo aviso desde la web - Instalaciones Eléctricas Ibarra">
   <input type="hidden" name="_next" value="https://instalacioneselectricasibarra.es/?enviado=ok">
 
-  <label>
-    <span>Tipo de servicio</span>
-    <select name="tipo" required style="width:100%; padding:10px; border-radius:6px;">
-      <option value="">Selecciona…</option>
-      <option>Instalación</option>
-      <option>Avería</option>
-      <option>Mantenimiento</option>
-    </select>
-  </label>
+  <!-- Tipo -->
+  <select name="tipo" required
+    style="
+      width:100%;
+      padding:12px;
+      border-radius:6px;
+      background:#1b1b1b;
+      color:#f2f2f2;
+      border:1px solid #f5a623;
+    ">
+    <option value="" disabled selected>Tipo de servicio</option>
+    <option>Instalación</option>
+    <option>Avería</option>
+    <option>Mantenimiento</option>
+  </select>
 
-  <label>
-    <span>Zona / Calle</span>
-    <input name="zona"
-           required
-           placeholder="Ej: Las Fuentes – C/ Miguel Servet"
-           style="width:100%; padding:10px; border-radius:6px;">
-  </label>
+  <!-- Zona -->
+  <input name="zona" required
+    placeholder="Zona / Calle"
+    style="
+      width:100%;
+      padding:12px;
+      border-radius:6px;
+      background:#1b1b1b;
+      color:#f2f2f2;
+      border:1px solid #f5a623;
+    ">
 
-  <label>
-    <span>Teléfono</span>
-    <input name="telefono"
-           inputmode="tel"
-           placeholder="6xx xxx xxx"
-           style="width:100%; padding:10px; border-radius:6px;">
-  </label>
+  <!-- Teléfono -->
+  <input name="telefono" inputmode="tel"
+    placeholder="Teléfono"
+    style="
+      width:100%;
+      padding:12px;
+      border-radius:6px;
+      background:#1b1b1b;
+      color:#f2f2f2;
+      border:1px solid #f5a623;
+    ">
 
-  <label>
-    <span>Descripción</span>
-    <textarea name="descripcion"
-              rows="4"
-              required
-              placeholder="Describe el trabajo o la avería"
-              style="width:100%; padding:10px; border-radius:6px;"></textarea>
-  </label>
+  <!-- Descripción -->
+  <textarea name="descripcion" rows="4" required
+    placeholder="Describe el trabajo o la avería"
+    style="
+      width:100%;
+      padding:12px;
+      border-radius:6px;
+      background:#1b1b1b;
+      color:#f2f2f2;
+      border:1px solid #f5a623;
+      resize:vertical;
+    "></textarea>
 
+  <!-- Botón -->
   <button type="submit"
-          style="
-            background:#f5a623;
-            color:#000;
-            font-weight:700;
-            border:none;
-            border-radius:30px;
-            padding:12px;
-            cursor:pointer;
-          ">
+    style="
+      background:#f5a623;
+      color:#000;
+      font-weight:700;
+      border:none;
+      border-radius:30px;
+      padding:12px;
+      cursor:pointer;
+    ">
     Enviar solicitud
   </button>
+
 </form>
 
+---
 
 ## 📞 Contacto
 
