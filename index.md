@@ -209,9 +209,7 @@ Servicio rápido, cercano y adaptado a normativa.
 
 </form>
 
----
-
-## 📞 Contacto
+📞 Contacto
 
 <div style="
   background:#141414;
