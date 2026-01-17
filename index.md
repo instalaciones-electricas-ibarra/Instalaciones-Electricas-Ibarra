@@ -102,9 +102,6 @@ Servicio rápido, cercano y adaptado a normativa.
 
 </div>
 
----
----
-
 ## 📝 Solicitar presupuesto / Aviso
 
 <div style="
@@ -209,8 +206,6 @@ Servicio rápido, cercano y adaptado a normativa.
 
 </form>
 </div>
-
----
 
 ## 📞 Contacto
 
