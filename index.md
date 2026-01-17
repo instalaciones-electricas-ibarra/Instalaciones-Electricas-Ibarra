@@ -116,6 +116,75 @@ Servicio rápido, cercano y adaptado a normativa.
   text-align:center;
 ">
 
+---
+
+## 📝 Solicitar presupuesto / Aviso
+
+<div style="
+  background:#141414;
+  border-left:4px solid #f5a623;
+  padding:18px 20px;
+  border-radius:8px;
+  margin-top:20px;
+">
+
+<form action="https://formspree.io/f/https://formspree.io/f/xnjjjlnj" method="POST" style="display:grid; gap:12px;">
+
+  <label style="display:grid; gap:6px;">
+    <span style="color:#cfcfcf;">Tipo de solicitud</span>
+    <select name="tipo" required style="padding:12px; border-radius:8px; border:1px solid #333; background:#1b1b1b; color:#f2f2f2;">
+      <option value="">Selecciona...</option>
+      <option>Instalación</option>
+      <option>Avería</option>
+      <option>Mantenimiento</option>
+      <option>Boletín / Certificado</option>
+      <option>Cuadro eléctrico</option>
+      <option>Iluminación</option>
+      <option>Otro</option>
+    </select>
+  </label>
+
+  <label style="display:grid; gap:6px;">
+    <span style="color:#cfcfcf;">Zona / Calle</span>
+    <input name="zona" required placeholder="Ej: Las Fuentes, C/ Miguel Servet 123"
+      style="padding:12px; border-radius:8px; border:1px solid #333; background:#1b1b1b; color:#f2f2f2;">
+  </label>
+
+  <label style="display:grid; gap:6px;">
+    <span style="color:#cfcfcf;">Teléfono</span>
+    <input name="telefono" inputmode="tel" placeholder="Ej: 6xx xxx xxx"
+      style="padding:12px; border-radius:8px; border:1px solid #333; background:#1b1b1b; color:#f2f2f2;">
+  </label>
+
+  <label style="display:grid; gap:6px;">
+    <span style="color:#cfcfcf;">Descripción</span>
+    <textarea name="descripcion" required rows="4" placeholder="Describe brevemente lo que necesitas..."
+      style="padding:12px; border-radius:8px; border:1px solid #333; background:#1b1b1b; color:#f2f2f2; resize:vertical;"></textarea>
+  </label>
+
+  <!-- Opcional: asunto bonito en el email -->
+  <input type="hidden" name="_subject" value="Nuevo aviso desde la web - Instalaciones Eléctricas Ibarra">
+
+  <button type="submit" style="
+    padding:12px 14px;
+    border-radius:10px;
+    border:0;
+    background:#f5a623;
+    color:#000;
+    font-weight:800;
+    cursor:pointer;
+  ">
+    Enviar
+  </button>
+
+  <p style="margin:0; color:#9a9a9a; font-size:0.92em;">
+    * Al enviar, aceptas que te contactemos por teléfono o email.
+  </p>
+
+</form>
+
+</div>
+
 <a href="https://wa.me/34658377727"
    style="
      display:block;
