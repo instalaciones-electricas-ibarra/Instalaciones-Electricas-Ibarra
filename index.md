@@ -116,8 +116,6 @@ Servicio rápido, cercano y adaptado a normativa.
   text-align:center;
 ">
 
----
-
 ## 📝 Solicitar presupuesto / Aviso
 
 <div style="
