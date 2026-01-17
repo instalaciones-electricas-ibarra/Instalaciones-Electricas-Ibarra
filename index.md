@@ -114,8 +114,15 @@ Servicio rápido, cercano y adaptado a normativa.
 
   <form action="https://formspree.io/f/xnjjjlnj"
       method="POST"
+      style="
+        background:#141414;
+        padding:20px;
+        border-radius:10px;
+        margin-top:20px;
+        display:grid;
+        gap:14px;
+      ">
       
-
   <input type="hidden" name="_subject" value="Nuevo aviso desde la web - Instalaciones Eléctricas Ibarra">
   <input type="hidden" name="_next" value="https://instalacioneselectricasibarra.es/?enviado=ok">
 
