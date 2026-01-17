@@ -115,60 +115,40 @@ Servicio rápido, cercano y adaptado a normativa.
   margin-top:20px;
 ">
 
-<form
-  action="https://formspree.io/f/https://formspree.io/f/xnjjjlnj"
-  method="POST"
-  style="margin-top:20px;"
->
+ <form action="https://formspree.io/f/formspree.io/f/xnjjjlnj" method="POST" style="display:grid; gap:12px;">
 
-  <!-- Redirección tras enviar -->
-  <input type="hidden" name="_next" value="https://instalacioneselectricasibarra.es/?enviado=ok">
+  <input type="hidden" name="_subject" value="Nuevo aviso desde la web - Instalaciones Eléctricas Ibarra">
+  <input type="hidden" name="_next" value="http://instalacioneselectricasibarra.es/?enviado=ok">
 
-  <label>Tipo de servicio</label>
-  <select name="Servicio" required>
-    <option value="">Selecciona una opción</option>
-    <option>Instalación eléctrica</option>
-    <option>Avería</option>
-    <option>Mantenimiento</option>
-    <option>Boletín eléctrico</option>
-  </select>
+  <label style="display:grid; gap:6px;">
+    <span>Tipo de solicitud</span>
+    <select name="tipo" required>
+      <option value="">Selecciona...</option>
+      <option>Instalación</option>
+      <option>Avería</option>
+      <option>Mantenimiento</option>
+    </select>
+  </label>
 
-  <br><br>
+  <label style="display:grid; gap:6px;">
+    <span>Zona / Calle</span>
+    <input name="zona" required placeholder="Ej: Las Fuentes, C/ Miguel Servet 123">
+  </label>
 
-  <label>Zona / Calle</label>
-  <input
-    type="text"
-    name="Zona"
-    placeholder="Ej: Calle San José, Zaragoza"
-    required
-  >
+  <label style="display:grid; gap:6px;">
+    <span>Teléfono</span>
+    <input name="telefono" inputmode="tel" placeholder="6xx xxx xxx">
+  </label>
 
-  <br><br>
+  <label style="display:grid; gap:6px;">
+    <span>Descripción</span>
+    <textarea name="descripcion" required rows="4" placeholder="Cuéntame el problema o el trabajo..."></textarea>
+  </label>
 
-  <label>Descripción</label>
-  <textarea
-    name="Descripción"
-    rows="4"
-    placeholder="Describe brevemente el trabajo"
-    required
-  ></textarea>
-
-  <br><br>
-
-  <button type="submit"
-    style="
-      background:#f5a623;
-      border:none;
-      padding:12px 18px;
-      border-radius:6px;
-      font-weight:700;
-      cursor:pointer;
-    ">
-    Enviar solicitud
-  </button>
-
+  <button type="submit">Enviar</button>
 </form>
 
+---
 ---
 
 ## 📞 Contacto
