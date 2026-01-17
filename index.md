@@ -115,7 +115,7 @@ Servicio rápido, cercano y adaptado a normativa.
   margin-top:20px;
 ">
 
-  <form action="https://formspree.io/f/formspree.io/f/xnjjjlnj"
+  <form action="https://formspree.io/f/xnjjjlnj"
       method="POST"
       style="
         background:#141414;
