@@ -115,41 +115,70 @@ Servicio rápido, cercano y adaptado a normativa.
   margin-top:20px;
 ">
 
- <form action="https://formspree.io/f/formspree.io/f/xnjjjlnj" method="POST" style="display:grid; gap:12px;">
+ <form action="https://formspree.io/f/formspree.io/f/xnjjjlnj"
+      method="POST"
+      style="
+        background:#141414;
+        border-left:4px solid #f5a623;
+        padding:20px;
+        border-radius:10px;
+        margin-top:20px;
+        display:grid;
+        gap:14px;
+      ">
 
   <input type="hidden" name="_subject" value="Nuevo aviso desde la web - Instalaciones Eléctricas Ibarra">
   <input type="hidden" name="_next" value="https://instalacioneselectricasibarra.es/?enviado=ok">
 
-  <label style="display:grid; gap:6px;">
-    <span>Tipo de solicitud</span>
-    <select name="tipo" required>
-      <option value="">Selecciona...</option>
+  <label>
+    <span>Tipo de servicio</span>
+    <select name="tipo" required style="width:100%; padding:10px; border-radius:6px;">
+      <option value="">Selecciona…</option>
       <option>Instalación</option>
       <option>Avería</option>
       <option>Mantenimiento</option>
     </select>
   </label>
 
-  <label style="display:grid; gap:6px;">
+  <label>
     <span>Zona / Calle</span>
-    <input name="zona" required placeholder="Ej: Las Fuentes, C/ Miguel Servet 123">
+    <input name="zona"
+           required
+           placeholder="Ej: Las Fuentes – C/ Miguel Servet"
+           style="width:100%; padding:10px; border-radius:6px;">
   </label>
 
-  <label style="display:grid; gap:6px;">
+  <label>
     <span>Teléfono</span>
-    <input name="telefono" inputmode="tel" placeholder="6xx xxx xxx">
+    <input name="telefono"
+           inputmode="tel"
+           placeholder="6xx xxx xxx"
+           style="width:100%; padding:10px; border-radius:6px;">
   </label>
 
-  <label style="display:grid; gap:6px;">
+  <label>
     <span>Descripción</span>
-    <textarea name="descripcion" required rows="4" placeholder="Cuéntame el problema o el trabajo..."></textarea>
+    <textarea name="descripcion"
+              rows="4"
+              required
+              placeholder="Describe el trabajo o la avería"
+              style="width:100%; padding:10px; border-radius:6px;"></textarea>
   </label>
 
-  <button type="submit">Enviar</button>
+  <button type="submit"
+          style="
+            background:#f5a623;
+            color:#000;
+            font-weight:700;
+            border:none;
+            border-radius:30px;
+            padding:12px;
+            cursor:pointer;
+          ">
+    Enviar solicitud
+  </button>
 </form>
 
----
----
 
 ## 📞 Contacto
 
