@@ -118,7 +118,7 @@ Servicio rápido, cercano y adaptado a normativa.
  <form action="https://formspree.io/f/formspree.io/f/xnjjjlnj" method="POST" style="display:grid; gap:12px;">
 
   <input type="hidden" name="_subject" value="Nuevo aviso desde la web - Instalaciones Eléctricas Ibarra">
-  <input type="hidden" name="_next" value="http://instalacioneselectricasibarra.es/?enviado=ok">
+  <input type="hidden" name="_next" value="https://instalacioneselectricasibarra.es/?enviado=ok">
 
   <label style="display:grid; gap:6px;">
     <span>Tipo de solicitud</span>
