@@ -131,15 +131,25 @@ Servicio rápido, cercano y adaptado a normativa.
   <input type="hidden" name="_next" value="https://instalacioneselectricasibarra.es/?enviado=ok">
 
   <!-- Tipo -->
-  <select name="tipo" required
-    style="
-      width:100%;
-      padding:12px;
-      border-radius:6px;
-      background:#1b1b1b;
-      color:#f2f2f2;
-      border:1px solid #f5a623;
-    ">
+<select name="tipo" required
+  style="
+    width:100%;
+    padding:12px 40px 12px 12px;
+    border-radius:6px;
+    background:#1b1b1b;
+    color:#f2f2f2;
+    border:1px solid #f5a623;
+    appearance:none;
+    -webkit-appearance:none;
+    -moz-appearance:none;
+    background-image:url('data:image/svg+xml;utf8,
+      <svg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;%23f5a623&quot;>
+        <path d=&quot;M7 10l5 5 5-5z&quot;/>
+      </svg>');
+    background-repeat:no-repeat;
+    background-position:right 12px center;
+    background-size:18px;
+  ">
     <option value="" disabled selected>Tipo de servicio</option>
     <option>Instalación</option>
     <option>Avería</option>
