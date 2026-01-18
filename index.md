@@ -238,12 +238,11 @@ Servicio rápido, cercano y adaptado a normativa.
   📧 maielectricidad@hotmail.com
 </a>
 
+</div>
+
 [Política de Cookies](/cookies) · 
 [Política de Privacidad](/privacidad) · 
 [Aviso Legal](/aviso-legal)
-
-
-</div>
 
 
 
