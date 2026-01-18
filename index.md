@@ -242,19 +242,9 @@ Servicio rápido, cercano y adaptado a normativa.
 
 
 
-<div style="
-  width:100%;
-  text-align:center;
-  white-space:nowrap;
-  overflow:hidden;
-  text-overflow:ellipsis;
-  font-size:0.92em;
-  letter-spacing:0.2px;
-  margin: 0 auto 10px;
-">
+
 [Política de Cookies](/cookies) · 
 [Política de Privacidad](/privacidad) · 
 [Aviso Legal](/aviso-legal)
 
-</div>
 
