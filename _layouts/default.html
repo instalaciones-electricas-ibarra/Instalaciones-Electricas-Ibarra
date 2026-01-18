@@ -223,5 +223,84 @@
 
 </a>
 
+<!-- Banner de Cookies -->
+<div id="cookie-banner" class="cookie-banner">
+  <span>
+    Utilizamos cookies técnicas necesarias para el correcto funcionamiento del sitio.
+    <a href="/cookies">Más información</a>
+  </span>
+  <button id="cookie-accept">Aceptar</button>
+</div>
+
+<style>
+.cookie-banner {
+  position: fixed;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: #141414;
+  color: #f2f2f2;
+  border: 1px solid #f5a623;
+  border-radius: 12px;
+  padding: 14px 18px;
+  display: flex;
+  gap: 14px;
+  align-items: center;
+  max-width: 95%;
+  box-shadow: 0 10px 30px rgba(0,0,0,.6);
+  z-index: 9999;
+  font-size: 0.9em;
+}
+
+.cookie-banner a {
+  color: #f5a623;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.cookie-banner a:hover {
+  text-decoration: underline;
+}
+
+.cookie-banner button {
+  background: #f5a623;
+  color: #000;
+  border: none;
+  border-radius: 20px;
+  padding: 6px 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.cookie-banner button:hover {
+  background: #ffd27d;
+}
+
+@media (max-width: 480px) {
+  .cookie-banner {
+    flex-direction: column;
+    text-align: center;
+    gap: 10px;
+  }
+}
+</style>
+
+<script>
+(function() {
+  const banner = document.getElementById('cookie-banner');
+  const btn = document.getElementById('cookie-accept');
+
+  if (localStorage.getItem('cookiesAccepted')) {
+    banner.style.display = 'none';
+  }
+
+  btn.addEventListener('click', function() {
+    localStorage.setItem('cookiesAccepted', 'true');
+    banner.style.display = 'none';
+  });
+})();
+</script>
+
+  
 </body>
 </html>
