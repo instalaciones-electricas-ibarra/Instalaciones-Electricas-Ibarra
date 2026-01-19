@@ -36,10 +36,11 @@
   Instalaciones · Reparaciones · Mantenimiento
 </div>
 
-Servicio profesional de electricista en Zaragoza y alrededores,
-especializado en instalaciones eléctricas, averías y mantenimiento.
 
 <div class="energy-bar"></div>
+
+Servicio profesional de electricista en Zaragoza y alrededores,
+especializado en instalaciones eléctricas, averías y mantenimiento.
 
 ---
 ---
