@@ -1,9 +1,11 @@
 🔒 Política de Privacidad
 Responsable del tratamiento
 
-Titular: Instalaciones Eléctricas Ibarra
+Titular: Miguel Ángel Ibarra Pacho
 
-Email de contacto: maielectricidad@hotmail.com
+NIF: 77219092L
+
+Email de contacto: instalacioneselectricasibarra@gmail.com
 
 Datos que se recogen
 
@@ -44,5 +46,5 @@ Rectificación
 
 Supresión
 
-enviando un correo electrónico a maielectricidad@hotmail.com
+enviando un correo electrónico a instalacioneselectricasibarra@gmail.com
 .
