@@ -1,20 +1,12 @@
 ⚖️ Aviso Legal
 Datos identificativos
 
-En cumplimiento de la Ley 34/2002 (LSSI-CE), se informa:
+En cumplimiento del art. 10 de la Ley 34/2002, de Servicios de la Sociedad de la Información y de Comercio Electrónico (LSSI-CE), se informa de que el titular de este sitio web es:
 
-Titular: Instalaciones Eléctricas Ibarra
-
-Actividad: Servicios e instalaciones eléctricas
-
-Zona de actuación: Zaragoza y alrededores
-
-Email de contacto: maielectricidad@hotmail.com
-
-Uso del sitio web
-
-El usuario se compromete a hacer un uso adecuado de los contenidos y a no emplearlos para actividades ilícitas.
-
-Responsabilidad
-
-El titular no se hace responsable del mal uso que se realice del sitio web ni de los daños derivados del uso de la información contenida.
+	•	Titular: Miguel Ángel Ibarra Pacho, con nombre comercial Instalaciones Eléctricas Ibarra
+	•	NIF: 77219092L
+	•	Domicilio: Comuneros de Castilla 13 50002 Zaragoza
+	•	Correo electrónico: instalacioneselectricasibarra@gmail.com
+	•	Teléfono / WhatsApp: 658 377 727
+	•	Actividad: servicios de instalaciones eléctricas, reparación y mantenimiento
+	
