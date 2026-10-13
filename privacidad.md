@@ -1,50 +1,45 @@
 🔒 Política de Privacidad
-Responsable del tratamiento
+1. Responsable del tratamiento
 
-Titular: Miguel Ángel Ibarra Pacho
+	•	Responsable: Miguel Ángel Ibarra Pacho (Instalaciones Eléctricas Ibarra)
+	•	NIF: 77219092L
+	•	Domicilio: Comuneros de Castilla 13 Zaragoza]
+	•	Correo electrónico: instalacioneselectricasibarra@gmail.com
+	•	Teléfono / WhatsApp: 658 377 727
 
-NIF: 77219092L
+2. Datos que se recogen
 
-Email de contacto: instalacioneselectricasibarra@gmail.com
+	•	A través del formulario de contacto: tipo de servicio, zona o calle, teléfono y descripción del trabajo.
+	•	A través de WhatsApp o correo: tu número de teléfono o dirección de correo y el contenido de los mensajes y archivos que nos envíes.
 
-Datos que se recogen
+No se solicitan datos especialmente protegidos. Te pedimos que no los incluyas en tus mensajes.
 
-A través del formulario de contacto se pueden recoger los siguientes datos:
+3. Finalidad
+Atender tus solicitudes de presupuesto, avisos, averías o consultas, y comunicarnos contigo para ello. Si se contrata el servicio, también gestionar el trabajo, la facturación y las obligaciones legales asociadas.
 
-Tipo de servicio
+4. Base jurídica
 
-Zona o calle
+	•	Tu consentimiento, al enviar el formulario o ponerte en contacto con nosotros (art. 6.1.a RGPD).
+	•	La aplicación de medidas precontractuales a petición tuya y, si se contrata, la ejecución del contrato (art. 6.1.b).
+	•	El cumplimiento de obligaciones legales, fiscales y contables (art. 6.1.c).
 
-Teléfono
+5. Conservación
+Los datos se conservarán mientras gestionemos tu solicitud. Si no llega a contratarse, se eliminarán en un plazo máximo de [12 meses] desde el último contacto. Si se contrata, se conservarán durante los plazos exigidos por la normativa fiscal, mercantil y de responsabilidad. No se usarán con fines comerciales sin tu consentimiento expreso.
 
-Descripción del trabajo
+6. Destinatarios y encargados
+No cedemos tus datos a terceros salvo obligación legal. Para prestar el servicio utilizamos:
 
-Finalidad del tratamiento
+	•	Formspree, que gestiona el envío del formulario y actúa como encargado del tratamiento. Su sede está en EE. UU., por lo que puede haber una transferencia internacional de datos, amparada en [cláusulas contractuales tipo / marco de privacidad UE-EE. UU.].
+	•	WhatsApp (Meta), si decides contactar por ese canal. Su tratamiento se rige por su propia política de privacidad.
+	
+7. Tus derechos
+Puedes ejercer los derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad, y retirar tu consentimiento en cualquier momento, escribiendo a maielectricidad@hotmail.com e indicando el derecho que quieres ejercer. Podemos pedirte que acredites tu identidad.
 
-Los datos se utilizan únicamente para atender solicitudes de presupuesto, avisos o consultas realizadas por el usuario.
+Si consideras que tus datos no se tratan correctamente, puedes presentar una reclamación ante la Agencia Española de Protección de Datos (www.aepd.es).
 
-Legitimación
+8. Seguridad
+Aplicamos medidas técnicas y organizativas razonables para proteger tus datos frente a accesos no autorizados, pérdida o alteración.
 
-La base legal para el tratamiento de los datos es el consentimiento del usuario, al enviar voluntariamente el formulario.
-
-Conservación de los datos
-
-Los datos se conservarán únicamente el tiempo necesario para gestionar la solicitud y no se usarán con fines comerciales sin consentimiento expreso.
-
-Destinatarios
-
-Los datos no se ceden a terceros.
-El envío del formulario se realiza mediante Formspree, que actúa como encargado del tratamiento conforme a la normativa europea.
-
-Derechos del usuario
-
-El usuario puede ejercer sus derechos de:
-
-Acceso
-
-Rectificación
-
-Supresión
-
-enviando un correo electrónico a instalacioneselectricasibarra@gmail.com
+9. Modificaciones
+Podemos actualizar esta política. Rige la versión publicada en cada momento.
 .
