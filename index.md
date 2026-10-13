@@ -239,7 +239,7 @@ Servicio rápido, cercano y adaptado a normativa.
      color:#f5a623;
      text-decoration:none;
    ">
-  📧 maielectricidad@hotmail.com
+  📧 instalacioneselectricasibarra@gmail.com
 </a>
 
 </div>
