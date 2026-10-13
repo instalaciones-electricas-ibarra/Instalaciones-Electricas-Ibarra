@@ -232,7 +232,7 @@ Servicio rápido, cercano y adaptado a normativa.
   📲 WhatsApp: 658 377 727
 </a>
 
-<a href="mailto:maielectricidad@hotmail.com"
+<a href="mailto:instalacioneselectricasibarra@gmail.com"
    style="
      display:block;
      font-size:1em;
