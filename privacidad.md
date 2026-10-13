@@ -33,7 +33,7 @@ No cedemos tus datos a terceros salvo obligación legal. Para prestar el servici
 	•	WhatsApp (Meta), si decides contactar por ese canal. Su tratamiento se rige por su propia política de privacidad.
 	
 7. Tus derechos
-Puedes ejercer los derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad, y retirar tu consentimiento en cualquier momento, escribiendo a maielectricidad@hotmail.com e indicando el derecho que quieres ejercer. Podemos pedirte que acredites tu identidad.
+Puedes ejercer los derechos de acceso, rectificación, supresión, oposición, limitación del tratamiento y portabilidad, y retirar tu consentimiento en cualquier momento, escribiendo a instalacioneselectricasibarra@gmail.com e indicando el derecho que quieres ejercer. Podemos pedirte que acredites tu identidad.
 
 Si consideras que tus datos no se tratan correctamente, puedes presentar una reclamación ante la Agencia Española de Protección de Datos (www.aepd.es).
 
@@ -42,4 +42,3 @@ Aplicamos medidas técnicas y organizativas razonables para proteger tus datos f
 
 9. Modificaciones
 Podemos actualizar esta política. Rige la versión publicada en cada momento.
-.
