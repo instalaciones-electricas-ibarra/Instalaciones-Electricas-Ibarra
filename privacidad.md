@@ -2,10 +2,7 @@
 1. Responsable del tratamiento
 
 	•	Responsable: Miguel Ángel Ibarra Pacho (Instalaciones Eléctricas Ibarra)
-	•	NIF: 77219092L
-	•	Domicilio: Comuneros de Castilla 13 Zaragoza]
 	•	Correo electrónico: instalacioneselectricasibarra@gmail.com
-	•	Teléfono / WhatsApp: 658 377 727
 
 2. Datos que se recogen
 
